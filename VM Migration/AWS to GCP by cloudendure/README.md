@@ -56,7 +56,7 @@ Cloudendure is used for VM migration. It is agent base migration tool so you hav
 
 ![](https://github.com/Petabytz/GCP-Projects/blob/master/VM%20Migration/AWS%20to%20GCP%20by%20cloudendure/Screenshot%20(110).png)
 
-```## NOTE : Here is one option Use VPN or Cloud interconnect. If we not enable this then it use public internet to migarte our VM, so it slow down the process of migration. So we can use VPN connected with AWS VPC via tunnel then it will do secure and fast migration.  ``` 
+### ```NOTE : Here is one option Use VPN or Cloud interconnect. If we not enable this then it use public internet to migarte our VM, so it slow down the process of migration. So we can use VPN connected with AWS VPC via tunnel then it will do secure and fast migration.  ``` 
 
 ![](https://github.com/Petabytz/GCP-Projects/blob/master/VM%20Migration/AWS%20to%20GCP%20by%20cloudendure/Screenshot%20(111).png)
 
