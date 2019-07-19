@@ -113,3 +113,10 @@ the one is our actual VM which is migrated from AWS and another one is Cloudendu
 ![](https://github.com/Petabytz/GCP-Projects/blob/master/VM%20Migration/AWS%20to%20GCP%20by%20cloudendure/Screenshot%20(123).png)
 
 * If you want to ssh in GCP instance you can not directly do that by clicking on ```ssh button```, you have to use PUTTY or SSH client to connect to that instance using same ssh key which is generated form AWS EC2 instance.
+
+## Conclusion :
+As you can see, cloud migration is quite a doable endeavor, if it is executed according to a straightforward checklist. However, there are multiple underwater reefs that pose a grave danger for the project.
+
+Thus said, cloud migration is one of the most popular services provided by reliable Managed Services Providers worldwide. These companies have ample experience designing and implementing the cloud migration plans, allowing their customers reach the business goals set, optimize their product or services performance and deliver more value to their customers while spending less on their IT infrastructure maintenance.
+
+Velostrata also provide cloud migration platform.
